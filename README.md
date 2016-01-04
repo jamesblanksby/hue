@@ -12,4 +12,4 @@ Colors can be converted instantly to and from named (where applicable), hex, rgb
 <img src="http://i.imgur.com/QbAewTG.gif" alt="CSS color conversion" width="700">
 
 ### Comparison
-Comparing or making a palette of colors is done much the same as conversion except instead of using one hex value, you may use multiple, for example: `http://<URL>/{ COLOR 1}/{ COLOR2 }/{ COLOR3 }`. There is no programmatic limit to the amount of colors you can use but depending on the size of your monitor you may find the UI starts to double up on itself. Like before, this method only supports color comparison from hex values and the color must be entered without the preceding hash.
+Comparing or making a palette of colors is done much the same as conversion except instead of using one hex value, you may use multiple, for example: `http://<URL>/{ COLOR1 }/{ COLOR2 }/{ COLOR3 }`. There is no programmatic limit to the amount of colors you can use but depending on the size of your monitor you may find the UI starts to double up on itself. Like before, this method only supports color comparison from hex values and the color must be entered without the preceding hash.
